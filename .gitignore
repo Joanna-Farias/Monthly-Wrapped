@@ -1,0 +1,9 @@
+# Variáveis de ambiente
+.env
+.env*.local
+.env.production
+.env.development
+
+# Dependências (exemplo)
+node_modules/
+__pycache__/
